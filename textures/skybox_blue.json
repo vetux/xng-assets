@@ -21,7 +21,16 @@
           "uri": "images/skybox_blue/bkg1_back.png"
         }
       },
-      "description": {}
+      "description": {
+        "size": {
+          "x": 2048,
+          "y": 2048
+        },
+        "filterMin": 1,
+        "filterMag": 0,
+        "textureType": 2,
+        "wrapping": 1
+      }
     }
   ]
 }
